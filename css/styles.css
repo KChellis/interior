@@ -8,3 +8,21 @@ h1 {
 h2 {
   text-align: center;
 }
+.before {
+  border: 3px solid black;
+  background-color: #0d5360;
+  padding: 4px;
+  margin: 12px;
+}
+.during {
+  border: 3px solid black;
+  background-color: #4b1093;
+  padding: 4px;
+  margin: 12px;
+}
+.after {
+  border: 3px solid black;
+  background-color: #02561a;
+  padding: 4px;
+  margin: 12px;
+}
