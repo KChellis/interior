@@ -20,7 +20,7 @@ _There are no known bugs at this point, but if you run into any errors don't hes
 
 ## Support and Contact Details
 
-_Please contact Kristen and Dawn at kd@kd.net._
+_Please contact Kristen and Dawn at peanutster@gmail.com_
 
 ## Technologies Used
 
